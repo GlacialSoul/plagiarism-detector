@@ -1,0 +1,10 @@
+Python is a powerful programming language used for web development, data analysis, and machine learning.
+
+This project demonstrates how to check for similarities between text files to detect plagiarism.
+
+Coding regularly helps in developing strong logical and problem-solving skills.
+
+The quick brown fox jumps over the lazy dog.
+
+Data structures and algorithms are fundamental to technical interviews at top tech companies
+
